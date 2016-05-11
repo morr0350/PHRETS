@@ -1,5 +1,5 @@
 {
-  "name": "morr0350/phrets",
+  "name": "troydavisson/phrets",
   "type": "library",
   "license": "MIT",
   "description": "RETS library in PHP",
@@ -7,7 +7,7 @@
     "rets",
     "mls"
   ],
-  "homepage": "http://github.com/morr0350/PHRETS",
+  "homepage": "http://github.com/troydavisson/PHRETS",
   "authors": [
     {
       "name": "Troy Davisson",
